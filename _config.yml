@@ -1,3 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Symposium AI in medical research
+description: A symposium designed for PhDs, postdocs, and anyone interested in translating AI research into clinical impact. Aimed to bring researchers together, promote interdisciplinary collaboration, build a community, and support researchers at different stages of AI integration. 
+
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
