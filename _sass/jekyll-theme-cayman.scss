@@ -109,18 +109,24 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  // The first linear-gradient is a translucent color tint laid OVER the photo.
+  // Lower the 0.45 values -> photo shows more; raise toward 1 -> more solid color.
+  background-image: linear-gradient(120deg, rgba(21,120,120,0.0), rgba(21,120,120,0)), url('../header-bg.jpg');
+  aspect-ratio: 1492 / 551; 
+  background-size: cover;
+  background-repeat: no-repeat;    // ← add this line
+  background-position: center;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 25rem 4rem 4rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 10rem 2rem 2rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 5rem 1rem 3rem;
   }
 }
 

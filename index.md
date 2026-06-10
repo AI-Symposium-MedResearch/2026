@@ -9,7 +9,7 @@ Welcome to the _Symposium: AI in Medical Research_ — for PhDs, postdocs, and a
 
 We aim to bring researchers together, promote interdisciplinary collaboration, build a community, and support researchers at different stages of AI integration.
 
-After our successful [2025 edition](https://www.linkedin.com/posts/icai-innovation-center-for-artificial-intelligence_aiinhealthcare-responsibleai-healthcareinnovation-activity-7350810812397101057-GJC3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSsu4wBsPlTdb-mA74_3s3vIo_fZnJ7GA4), we're back with the **AI Accelerator @Erasmus MC** to organize the 2026 edition.
+After our successful [2025 edition](https://www.linkedin.com/posts/icai-innovation-center-for-artificial-intelligence_aiinhealthcare-responsibleai-healthcareinnovation-activity-7350810812397101057-GJC3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSsu4wBsPlTdb-mA74_3s3vIo_fZnJ7GA4), we're back with the **[AI Accelerator @Erasmus MC](https://www.linkedin.com/company/ai-accelerator-erasmus-mc/)** to organize the 2026 edition.
 
 #### What to expect:
 - Keynote talks
