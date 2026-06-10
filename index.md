@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## AI in Medical Research 2026
 
 Welcome to the _Symposium: AI in Medical Research_ — for PhDs, postdocs, and anyone interested in translating AI research into clinical impact.
@@ -45,5 +46,18 @@ The symposium will be held at Arminius Church (Museumpark 3, 3015 CB), Rotterdam
 | 15:45 – 16:45 | Speed researcg dating |
 | 16:45 – 17:00 | Closing |
 | 17:00 – 18.00 | Drinks! |
+
+## Speakers
+
+TBD
+
+## Registration
+The registration is free and includes coffee breaks and after-drinks. We welcome anyone interested in applying AI to medical research attend.
+
+[REGISTRATION LINK](https://ai-symposium-medresearch.github.io/2026/registration/)
+
+
+## Contact
+If you have any questions, please feel free to contact us at XX.
 
 
