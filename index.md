@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## AI in Medical Research 2026
+## Symposium: AI in Medical Research 2026
 
 Welcome to the _Symposium: AI in Medical Research_ — for PhDs, postdocs, and anyone interested in translating AI research into clinical impact.
 
