@@ -43,7 +43,7 @@ The symposium will be held at Arminius Church (Museumpark 3, 3015 CB), Rotterdam
 | 14:30 – 15:00 | Poster & Coffee break ☕️|
 | 15:00 – 15:30 | Keynote: clinical talk |
 | 15:30 – 15:45 | Research pitches |
-| 15:45 – 16:45 | Speed researcg dating |
+| 15:45 – 16:45 | Speed research dating |
 | 16:45 – 17:00 | Closing |
 | 17:00 – 18.00 | Drinks! |
 
