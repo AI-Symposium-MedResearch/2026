@@ -57,6 +57,93 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
 [REGISTRATION LINK](https://ai-symposium-medresearch.github.io/2026/registration/)
 
 
+## Organizing Committee
+
+<div class="committee-grid">
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Willemijn Berkhout">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Willemijn Berkhout</a><span class="role">Logistics & Operation</span></span><br>
+      <span class="affiliation">Erasmus MC</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Federico Ferraro">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Federico Ferraro</a><span class="role">Promotion & Communication</span></span><br>
+      <span class="affiliation">Erasmus MC</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Govert van der Gun">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Govert van der Gun</a><span class="role">Finance & Sponsors</span></span><br>
+      <span class="affiliation">Erasmus MC</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Yannick ter Heerdt">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Yannick ter Heerdt</a><span class="role">Logistics & Operation</span></span><br>
+      <span class="affiliation">Erasmus MC</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Mirthe Kamphuis">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Mirthe Kamphuis</a><span class="role">Speakers & Program</span></span><br>
+      <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Frank te Nijenhuis">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Frank te Nijenhuis</a><span class="role">Promotion & Communication</span></span><br>
+      <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Gonzalo Mosquera Rojas">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Gonzalo Mosquera Rojas</a><span class="role">Logistics &amp; Operation</span></span><br>
+      <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Jamie Verwey">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Jamie Verwey</a><span class="role">Finance &amp; Sponsors </span></span><br>
+      <span class="affiliation">Erasmus University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Xinyi Wan">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Xinyi Wan</a><span 
+      class="role">Speakers &amp; Program</span></span><br>
+      <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profiles/test1.jpg" alt="Karen van der Werff">
+    <div class="info">
+      <span class="name"><a href="https://www.erasmusmc.nl">Karen van der Werff</a><span 
+      class="role">Speakers &amp; Program</span></span><br>
+      <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+</div>
+
 ## Contact
 If you have any questions, please feel free to contact us at XX.
 

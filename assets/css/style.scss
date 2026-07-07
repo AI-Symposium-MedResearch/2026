@@ -2,3 +2,100 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+/* Keep the banner buttons anchored to the bottom of the header at every
+   screen size. The header height is driven by aspect-ratio, so on wide/tall
+   screens a fixed top padding left the buttons floating in the middle.
+   Flexbox with justify-content:flex-end pins them to the bottom instead. */
+.page-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.header-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.header-buttons .btn {
+  margin: 0;
+}
+
+/* Wider content area than the Cayman default (64rem) */
+@media screen and (min-width: 64em) {
+  .main-content {
+    max-width: 80rem;
+  }
+}
+
+/* Organizing committee cards */
+
+.committee-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem 2.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 40rem) {
+  .committee-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.committee-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.main-content .committee-member img {
+  margin: 0;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid #ddd;
+  padding: 2px;
+  background: #fff;
+}
+
+.committee-member .info {
+  line-height: 1.35;
+}
+
+.committee-member .name {
+  font-size: 1.0em;
+  font-weight: 600;
+}
+
+.committee-member .name a {
+  text-decoration: none;
+}
+
+.committee-member .name a:hover {
+  text-decoration: underline;
+}
+
+.committee-member .role {
+  font-size: 0.8em;
+  font-weight: 400;
+  color: #888;
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
+.committee-member .affiliation {
+  font-weight: 600;
+  color: #222;
+}
+
+.committee-member .country {
+  font-size: 0.85em;
+  color: #888;
+}
