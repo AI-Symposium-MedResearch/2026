@@ -28,13 +28,16 @@
            The id is the heading text, lowercased, with spaces turned into dashes
            (e.g. "## Date" -> date, "## Program" -> program).
            Edit the labels and targets below to match your sections. -->
-      <a href="{{ '/' | relative_url }}" class="btn">Home</a>
-      <a href="{{ '/registration' | relative_url }}" class="btn">Registration</a>
-      <a href="{{ '/#date' | relative_url }}" class="btn">Date</a>
-      <a href="{{ '/#location' | relative_url }}" class="btn">Location</a>
-      <a href="{{ '/#program' | relative_url }}" class="btn">Program</a>
-      <a href="{{ '/#speakers' | relative_url }}" class="btn">Speakers</a>
-      <a href="{{ '/#contact' | relative_url }}" class="btn">Contact</a>
+      <nav class="header-buttons">
+        <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+        <a href="{{ '/registration' | relative_url }}" class="btn">Registration</a>
+        <a href="{{ '/#date' | relative_url }}" class="btn">Date</a>
+        <a href="{{ '/#location' | relative_url }}" class="btn">Location</a>
+        <a href="{{ '/#program' | relative_url }}" class="btn">Program</a>
+        <a href="{{ '/#speakers' | relative_url }}" class="btn">Speakers</a>
+        <a href="{{ '/edition_2025' | relative_url }}" class="btn">2025 Recap</a>
+        <a href="{{ '/#contact' | relative_url }}" class="btn">Contact</a>
+      </nav>
     </header>
 
     <main id="content" class="main-content" role="main">
