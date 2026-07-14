@@ -61,26 +61,26 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
 
 <div class="committee-grid">
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Willemijn Berkhout">
+    <img src="assets/profiles/Willemijn.jpeg" alt="Willemijn Berkhout">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Willemijn Berkhout</a><span class="role">Logistics & Operation</span></span><br>
-      <span class="affiliation">Erasmus MC</span><br>
+      <span class="affiliation">Erasmus MC - Adult Intensive Care Unit</span><br>
       <span class="country">Netherlands</span>
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Federico Ferraro">
+    <img src="assets/profiles/Federico.jpg" alt="Federico Ferraro">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Federico Ferraro</a><span class="role">Promotion & Communication</span></span><br>
-      <span class="affiliation">Erasmus MC</span><br>
+      <span class="affiliation">Erasmus MC - Clinical Genetics</span><br>
       <span class="country">Netherlands</span>
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Govert van der Gun">
+    <img src="assets/profiles/Govert.jpg" alt="Govert van der Gun">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Govert van der Gun</a><span class="role">Finance & Sponsors</span></span><br>
-      <span class="affiliation">Erasmus MC</span><br>
+      <span class="affiliation">Erasmus MC - Rehabilitation Medicine</span><br>
       <span class="country">Netherlands</span>
     </div>
   </div>
@@ -117,10 +117,10 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Jamie Verwey">
+    <img src="assets/profiles/Jamie.jpeg" alt="Jamie Verwey">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Jamie Verwey</a><span class="role">Finance &amp; Sponsors </span></span><br>
-      <span class="affiliation">Erasmus University</span><br>
+      <span class="affiliation">Erasmus University - Erasmus School of Health Policy & Management</span><br>
       <span class="country">Netherlands</span>
     </div>
   </div>
@@ -134,7 +134,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Karen van der Werff">
+    <img src="assets/profiles/Karen.jpg" alt="Karen van der Werff">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Karen van der Werff</a><span 
       class="role">Speakers &amp; Program</span></span><br>
