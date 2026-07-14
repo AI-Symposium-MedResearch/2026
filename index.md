@@ -125,7 +125,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Xinyi Wan">
+    <img src="assets/profiles/Xinyi.png" alt="Xinyi Wan">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Xinyi Wan</a><span 
       class="role">Speakers &amp; Program</span></span><br>
