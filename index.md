@@ -145,6 +145,6 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
 </div>
 
 ## Contact
-If you have any questions, please feel free to contact us at XX.
+If you have any questions, please feel free to contact us at ai.symposium@erasmusmc.nl.
 
 

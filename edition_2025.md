@@ -51,7 +51,7 @@ We wrapped up with an energetic and creative interactive group session where par
   </figure>
   <figure>
     <img src="assets/2025/Eris.jpg" alt="A pratical example of AI deployment">
-    <figcaption>Eris van Twist- AI in the PICU: from data to decisions​</figcaption>
+    <figcaption>Eris van Twist - AI in the PICU: from data to decisions​</figcaption>
   </figure>
   <figure>
     <img src="assets/2025/interactive.jpg" alt="Interactive group session">
