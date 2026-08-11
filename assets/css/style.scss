@@ -99,3 +99,66 @@
   font-size: 0.85em;
   color: #888;
 }
+
+/* Keynote speaker cards: photo + name/website + biography */
+.speakers-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+.speaker {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+@media (max-width: 40rem) {
+  .speaker {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.main-content .speaker img {
+  margin: 0;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 3px;
+  background: #fff;
+}
+
+.speaker .info {
+  line-height: 1.5;
+}
+
+.speaker .name {
+  margin: 0 0 0.15rem;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.speaker .name a {
+  text-decoration: none;
+}
+
+.speaker .name a:hover {
+  text-decoration: underline;
+}
+
+.speaker .affiliation {
+  margin: 0 0 0.6rem;
+  font-weight: 600;
+  color: #555;
+}
+
+.speaker .bio {
+  margin: 0;
+  color: #222;
+}

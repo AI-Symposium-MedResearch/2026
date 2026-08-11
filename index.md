@@ -49,7 +49,34 @@ The symposium will be held at Arminius Church (Museumpark 3, 3015 CB), Rotterdam
 
 ## Speakers
 
-TBD
+We have invited inspiring speakers working on translating AI research into clinical impact. Confirmed keynote speakers include:
+
+<div class="speakers-grid">
+  <div class="speaker">
+    <img src="assets/speakers/Martijn.jpg" alt="Martijn Bauer">
+    <div class="info">
+      <h3 class="name"><a href="https://www.linkedin.com/in/martijn-bauer-79909b6/">Martijn Bauer</a></h3>
+      <p class="affiliation">Leiden Univeristy Medical Center</p>
+      <p class="bio">Martijn Bauer is an internist at LUMC, where he mainly works in (sub)acute care. His great passion is making diagnoses as efficiently as possible, using methods including Bayesian reasoning and point-of-care ultrasound. In 2017, together with IT specialists, he began developing a software application that automatically creates a report of the conversation between healthcare provider and patient and extracts structured data from it. This led to the founding of the company <a href="https://www.linkedin.com/company/autoscriber/">Autoscriber</a>.</p>
+    </div>
+  </div>
+  <div class="speaker">
+    <img src="assets/speakers/Esther.jpg" alt="Esther Bron">
+    <div class="info">
+      <h3 class="name"><a href="https://estherbron.com/">Esther Bron</a></h3>
+      <p class="affiliation">Erasmus Medical Center</p>
+      <p class="bio">Dr. Esther Bron is associate professor of neuroimage analysis and machine learning at Erasmus MC, Biomedical Imaging Group Rotterdam (<a href="https://bigr.nl">BIGR</a>), dept. Radiology & Nuclear Medicine. Her main research focus is on AI for image-based diagnosis and prediction in the field of neurological diseases, especially dementia, addressing challenges related to clinical translation of methods. In addition, she focuses on imaging data accessibility and has a leading role in national and European research infrastructure initiatives (Health-RI, Euro-BioImaging Population Imaging Node, Cancer Image Europe).</p>
+    </div>
+  </div>
+  <div class="speaker">
+    <img src="assets/speakers/Geert.jpg" alt="Geert Litjens">
+    <div class="info">
+      <h3 class="name"><a href="https://geertlitjens.nl/">Geert Litjens</a></h3>
+      <p class="affiliation">Radboud University Medical Center</p>
+      <p class="bio">Geert Litjens is a full professor of Artificial Intelligence for analysis of medical images in radiology and pathology at Radboud University Medical Center. His work focuses on the application of modern machine-learning methods to oncological pathology. Furthermore, he leads and participates in several research projects bridging the gap between medical specialties, such as prostate and pancreatic cancer, with a specific focus on developing multi-modal AI.</p>
+    </div>
+  </div>
+</div>
 
 ## Registration
 The registration is free and includes coffee breaks and after-drink. We welcome anyone interested in applying AI to medical research attend.
