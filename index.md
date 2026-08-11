@@ -128,7 +128,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Frank te Nijenhuis">
+    <img src="assets/profiles/Frank.jpg" alt="Frank te Nijenhuis">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Frank te Nijenhuis</a><span class="role">Promotion & Communication</span></span><br>
       <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
