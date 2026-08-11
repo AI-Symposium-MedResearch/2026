@@ -136,7 +136,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/Gonzalo.jpg" alt="Gonzalo Mosquera Rojas">
+    <img src="assets/profiles/Gonzalo.png" alt="Gonzalo Mosquera Rojas">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Gonzalo Mosquera Rojas</a><span class="role">Logistics &amp; Operation</span></span><br>
       <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
