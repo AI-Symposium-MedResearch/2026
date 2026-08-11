@@ -57,7 +57,7 @@ We have invited inspiring speakers working on translating AI research into clini
     <div class="info">
       <h3 class="name"><a href="https://www.linkedin.com/in/martijn-bauer-79909b6/">Martijn Bauer</a></h3>
       <p class="affiliation">Leiden Univeristy Medical Center</p>
-      <p class="bio">Martijn Bauer is an internist at LUMC, where he mainly works in (sub)acute care. His great passion is making diagnoses as efficiently as possible, using methods including Bayesian reasoning and point-of-care ultrasound. In 2017, together with IT specialists, he began developing a software application that automatically creates a report of the conversation between healthcare provider and patient and extracts structured data from it. This led to the founding of the company <a href="https://www.linkedin.com/company/autoscriber/">Autoscriber</a>.</p>
+      <p class="bio">Dr. Martijn Bauer is an internist at LUMC, where he mainly works in (sub)acute care. His great passion is making diagnoses as efficiently as possible, using methods including Bayesian reasoning and point-of-care ultrasound. In 2017, together with IT specialists, he began developing a software application that automatically creates a report of the conversation between healthcare provider and patient and extracts structured data from it. This led to the founding of the company <a href="https://www.linkedin.com/company/autoscriber/">Autoscriber</a>.</p>
     </div>
   </div>
   <div class="speaker">
