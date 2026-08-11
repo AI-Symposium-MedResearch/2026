@@ -146,7 +146,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
   <div class="committee-member">
     <img src="assets/profiles/Jamie.jpeg" alt="Jamie Verwey">
     <div class="info">
-      <span class="name"><a href="https://www.erasmusmc.nl">Jamie Verwey</a><span class="role">Finance &amp; Sponsors </span></span><br>
+      <span class="name"><a href="https://www.eur.nl/en/eshpm">Jamie Verwey</a><span class="role">Finance &amp; Sponsors </span></span><br>
       <span class="affiliation">Erasmus University - Erasmus School of Health Policy & Management</span><br>
       <span class="country">Netherlands</span>
     </div>
