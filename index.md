@@ -112,7 +112,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Yannick ter Heerdt">
+    <img src="assets/profiles/Yannick.jpg" alt="Yannick ter Heerdt">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Yannick ter Heerdt</a><span class="role">Logistics & Operation</span></span><br>
       <span class="affiliation">Erasmus MC</span><br>
@@ -120,7 +120,7 @@ The registration is free and includes coffee breaks and after-drink. We welcome 
     </div>
   </div>
   <div class="committee-member">
-    <img src="assets/profiles/test1.jpg" alt="Mirthe Kamphuis">
+    <img src="assets/profiles/Mirthe.jpeg" alt="Mirthe Kamphuis">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Mirthe Kamphuis</a><span class="role">Speakers & Program</span></span><br>
       <span class="affiliation">Erasmus MC – Radiology & Nuclear Medicine</span><br>
