@@ -5,6 +5,21 @@ layout: default
 
 ## Symposium: AI in Medical Research 2026
 
+<a
+  href="https://www.linkedin.com/company/emc-ai-symposium/"
+  target="_blank"
+  style="
+    display:inline-block;
+    background:#0077B5;
+    color:white;
+    padding:12px 24px;
+    border-radius:6px;
+    text-decoration:none;
+    font-weight:bold;
+    margin:10px 0;">
+  Connect on LinkedIn
+</a>
+
 Welcome to the _Symposium: AI in Medical Research_ — for PhDs, postdocs, and anyone interested in translating AI research into clinical impact.
 
 We aim to bring researchers together, promote interdisciplinary collaboration, build a community, and support researchers at different stages of AI integration.
