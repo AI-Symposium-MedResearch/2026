@@ -60,6 +60,11 @@ The symposium will be held at Arminius Church (Museumpark 3, 3015 CB), Rotterdam
 | 16:45 – 17:00 | Closing |
 | 17:00 – 18:00 | Drinks! |
 
+## Registration
+The registration is free and includes coffee breaks and after-drink. We welcome anyone interested in applying AI to medical research attend.
+
+<a class="register-button" href="https://forms.cloud.microsoft/e/kge4fH2DfK" target="_blank" rel="noopener">Register now →</a>
+
 ## Speakers
 
 We have invited inspiring speakers working on translating AI research into clinical impact. Confirmed keynote speakers include:
@@ -91,10 +96,6 @@ We have invited inspiring speakers working on translating AI research into clini
   </div>
 </div>
 
-## Registration
-The registration is free and includes coffee breaks and after-drink. We welcome anyone interested in applying AI to medical research attend.
-
-[REGISTRATION LINK](https://forms.cloud.microsoft/e/kge4fH2DfK)
 
 
 ## Organizing Committee
