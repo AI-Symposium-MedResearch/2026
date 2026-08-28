@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//opt/homebrew/opt/**)",
+      "Bash(ruby -v)",
+      "Read(//opt/homebrew/**)",
+      "Read(//Users/xinyi/**)",
+      "Read(//Users/xinyi/.gem/**)",
+      "Bash(find / -maxdepth 4 -name \"ruby3.3*\" -o -maxdepth 4 -name \"ruby-3.3*\")"
+    ]
+  }
+}
