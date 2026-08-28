@@ -51,23 +51,21 @@ The symposium will be held at Arminius Church (Museumpark 3, 3015 CB), Rotterdam
 
 | Time | Session |
 |:------|:---------|
-| 13:00 – 13:15 | Opening |
-| 13:15 – 13:45 | Keynote: technical talk |
-| 13:45 – 14:15 | Keynote: practical talk |
-| 14:15 – 14:30 | Research pitches |
-| 14:30 – 15:00 | Poster & Coffee break ☕️|
-| 15:00 – 15:30 | Keynote: clinical talk |
-| 15:30 – 15:45 | Research pitches |
-| 15:45 – 16:45 | Speed research dating |
+| 13:00 – 13:15 | Opening by AI Accelerator |
+| 13:15 – 13:45 | Keynote – Pathomics: [Geert Litjens](#speaker-geert-litjens) |
+| 13:45 – 14:15 | Keynote – Autoscriber: [Martijn Bauer](#speaker-martijn-bauer) |
+| 14:15 – 15:00 | Interactive sessions, posters & coffee ☕️ |
+| 15:00 – 15:30 | Keynote – Federated learning: [Esther Bron](#speaker-esther-bron) |
+| 15:30 – 16:45 | Interactive sessions, posters & networking |
 | 16:45 – 17:00 | Closing |
-| 17:00 – 18.00 | Drinks! |
+| 17:00 – 18:00 | Drinks! |
 
 ## Speakers
 
 We have invited inspiring speakers working on translating AI research into clinical impact. Confirmed keynote speakers include:
 
 <div class="speakers-grid">
-  <div class="speaker">
+  <div class="speaker" id="speaker-martijn-bauer">
     <img src="assets/speakers/Martijn.jpg" alt="Martijn Bauer">
     <div class="info">
       <h3 class="name"><a href="https://www.linkedin.com/in/martijn-bauer-79909b6/">Martijn Bauer</a></h3>
@@ -75,7 +73,7 @@ We have invited inspiring speakers working on translating AI research into clini
       <p class="bio">Dr. Martijn Bauer is an internist at LUMC, where he mainly works in (sub)acute care. His great passion is making diagnoses as efficiently as possible, using methods including Bayesian reasoning and point-of-care ultrasound. In 2017, together with IT specialists, he began developing a software application that automatically creates a report of the conversation between healthcare provider and patient and extracts structured data from it. This led to the founding of the company <a href="https://www.linkedin.com/company/autoscriber/">Autoscriber</a>.</p>
     </div>
   </div>
-  <div class="speaker">
+  <div class="speaker" id="speaker-esther-bron">
     <img src="assets/speakers/Esther.jpg" alt="Esther Bron">
     <div class="info">
       <h3 class="name"><a href="https://estherbron.com/">Esther Bron</a></h3>
@@ -83,7 +81,7 @@ We have invited inspiring speakers working on translating AI research into clini
       <p class="bio">Dr. Esther Bron is associate professor of neuroimage analysis and machine learning at Erasmus MC, Biomedical Imaging Group Rotterdam (<a href="https://bigr.nl">BIGR</a>), dept. Radiology & Nuclear Medicine. Her main research focus is on AI for image-based diagnosis and prediction in the field of neurological diseases, especially dementia, addressing challenges related to clinical translation of methods. In addition, she focuses on imaging data accessibility and has a leading role in national and European research infrastructure initiatives (Health-RI, Euro-BioImaging Population Imaging Node, Cancer Image Europe).</p>
     </div>
   </div>
-  <div class="speaker">
+  <div class="speaker" id="speaker-geert-litjens">
     <img src="assets/speakers/Geert.jpg" alt="Geert Litjens">
     <div class="info">
       <h3 class="name"><a href="https://geertlitjens.nl/">Geert Litjens</a></h3>
@@ -96,7 +94,7 @@ We have invited inspiring speakers working on translating AI research into clini
 ## Registration
 The registration is free and includes coffee breaks and after-drink. We welcome anyone interested in applying AI to medical research attend.
 
-[REGISTRATION LINK](https://ai-symposium-medresearch.github.io/2026/registration/)
+[REGISTRATION LINK](https://forms.cloud.microsoft/e/kge4fH2DfK)
 
 
 ## Organizing Committee
