@@ -129,7 +129,7 @@ We have invited inspiring speakers working on translating AI research into clini
     <img src="assets/profiles/Yannick.jpg" alt="Yannick ter Heerdt">
     <div class="info">
       <span class="name"><a href="https://www.erasmusmc.nl">Yannick ter Heerdt</a><span class="role">Logistics & Operation</span></span><br>
-      <span class="affiliation">Erasmus MC</span><br>
+      <span class="affiliation">Erasmus MC - General Practice</span><br>
       <span class="country">Netherlands</span>
     </div>
   </div>
