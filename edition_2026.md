@@ -58,6 +58,10 @@ Our speed-dating and poster session brought together researchers, industry repre
     <figcaption>Our MC for the afternoon</figcaption>
   </figure>
   <figure>
+    <img src="assets/2026/MC1.jpg" alt="Opening by the AI Accelerator" loading="lazy">
+    <figcaption>Our MC for the afternoon</figcaption>
+  </figure>
+  <figure>
     <img src="assets/2026/audience1.jpg" alt="Audience" loading="lazy">
     <figcaption>Audience</figcaption>
   </figure>
