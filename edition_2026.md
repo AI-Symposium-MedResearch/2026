@@ -16,6 +16,8 @@ Our speed-dating and poster session brought together researchers, industry repre
 
 ### Photos
 
+📸 All photos by **Alexander Hoogendijk** — [Ignis Infinity Creative](https://www.ignisinfinitycreative.com). 
+
 <div class="recap-gallery">
   <figure>
     <img src="assets/2026/Speaker-Michel.jpg" alt="Opening by the AI Accelerator" loading="lazy">
@@ -132,6 +134,8 @@ Our presenters pitched their research in a short talk. We would like to thank th
     <figcaption>Organizing committee</figcaption>
   </figure>
 </div>
+
+All event photos © Alexander Hoogendijk ([Ignis Infinity Creative](https://www.ignisinfinitycreative.com/conventions)).
 
 You can read more about the 2026 edition on
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7523757762305089536).
